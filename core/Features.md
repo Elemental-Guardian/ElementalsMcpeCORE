@@ -1,9 +1,10 @@
 # features
 
-- capes
 - nick
 - feed
 - heal
 - gamemodes 
-- staff list
+- cure
+- tank
+- Spawns
 - disord
